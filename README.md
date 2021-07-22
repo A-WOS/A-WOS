@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=header&fontSize=100)
 
 <div align = "center">
 
@@ -26,4 +26,4 @@ Have a nice day👍👍.
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=footer&fontSize=100)
