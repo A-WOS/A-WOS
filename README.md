@@ -1,16 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=header)
 
-<!--
-**A-WOS/A-WOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
 
-Here are some ideas to get you started:
+<br/>
+<strong>AWOS 🧐</strong><br><br>
+Hello, My name's WonSeok and my nickname's AWOS.<br>
+First of all, my goal is to make Instagram from start to finish.<br>
+Have a nice day👍👍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/><br/>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=footer)
