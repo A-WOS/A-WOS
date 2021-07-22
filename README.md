@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&height=130&section=header)
 
 <div align = "center">
 
@@ -11,7 +11,7 @@ Have a nice day👍👍.
 
 <br/><br/>
 
-﹏﹏﹏﹏﹏﹏﹏
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
