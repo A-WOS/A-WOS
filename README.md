@@ -5,8 +5,7 @@
 <br/>
 <strong>AWOS 🧐</strong><br><br>
 Hello, My name's WonSeok and my nickname's AWOS.<br>
-I'm studying django these days.<br>
-First of all, my goal is to make Instagram from start to finish.<br>
+I'm studying python these days.<br>
 Have a nice day👍👍.
 
 <br/><br/>
