@@ -20,8 +20,10 @@ Have a nice day👍👍.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src=”https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br>
+<img src=”https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
+<hr/>
+                                                                                                 
 [![AWOS's github stats](https://github-readme-stats.vercel.app/api?username=A-WOS&layout=compact&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
