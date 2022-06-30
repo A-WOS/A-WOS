@@ -5,7 +5,7 @@
 <br/>
 <strong>AWOS 🧐</strong><br><br>
 Hello, My name's WonSeok and my nickname's AWOS.<br>
-I'm studying python these days.<br>
+I'm studying django, vuejs, socket, etc.. these days.<br>
 Have a nice day👍👍.
 
 <br/><br/>
