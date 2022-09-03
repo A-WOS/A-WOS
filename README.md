@@ -7,6 +7,8 @@
 Hello, My name's WonSeok and my nickname's AWOS.<br>
 I'm studying django, vuejs, socket, etc.. these days.<br>
 Have a nice day👍👍.
+  
+moving from github to gitlab..
 
 <br/><br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=awos)](https://solved.ac/awos/)
